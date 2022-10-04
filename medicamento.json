@@ -1,0 +1,14 @@
+{
+"Medicines":[
+  {"id":"0","name":"Ampicilina", "description":"Para enfermedades infecciosas y parasitarias"},
+  {"id":"1","name":"Bisolvon", "description":"Mucolítico,expectorante en bronquitis"},
+  {"id":"2","name":"Cariden", "description":"Acción antiinflamatoria pero con reducida actividad sobre el metabolismo óseo"},
+  {"id":"3","name":"Omeprazol", "description":"Inhibe la secreción de ácido en el estomago"},  
+  {"id":"4","name":"Zaditen", "description":"Antiasmático no broncodilatador con actividad antianafilactica"},
+  {"id":"5","name":"Amoxicilina", "description":"Para Infecciones causadas por cepas sensibles como: infecciones de garganta, nariz y oídos"},
+  {"id":"6","name":"Aspirina", "description":"Sintomático del dolor de cabeza, dental, menstrual"},
+  {"id":"7","name":"Broxol", "description":"Aumenta la secreción de vías respiratorias, potencia la producción de surfactante pulmonar"},
+  {"id":"8","name":"Lamisil", "description":"Para infecciones fúngicas por dermatofitos"},
+  {"id":"9","name":"Paracetamol", "description":"Analgésico y antipirético"}
+  ]
+}
